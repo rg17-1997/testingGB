@@ -1,2 +1,2 @@
 # testingGB
-Random Github repo
+Random Github repository
