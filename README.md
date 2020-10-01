@@ -1,2 +1,2 @@
 # testingGB
-Github repo for Hacktoberfest
+Random Github repo
